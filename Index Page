@@ -1,0 +1,194 @@
+
+
+<!doctype html>
+<html> 
+    <head>
+        <title>ROGER FEDERER</title>
+	<style>
+		#div li::after{
+			content: "|";
+			padding-left: 5px;
+			padding-right: 5px;
+			color:black;
+		}
+		ul{
+			list-style-type: none;
+			float: right;
+		}
+		li{
+
+			display:inline;
+		}
+		.highlight{
+			color:red;
+		}
+		ul a,{
+			text-decoration: none;
+			color:black;
+		}
+		#name{
+			font-family: Cambria(Headings);
+			font-size: 15px;
+			color:Blue;
+		}
+		.header ul{
+			list-style-type: none;
+   			float:right;
+    		background-color:#0f3777;
+    		width:100%;
+    		display: inline-block;
+		}
+	header	li .a, .dropbtn {
+    display: inline-block;
+    color:white;
+    text-align: center;
+    padding: 10px 10px;
+	text-decoration: none;
+}
+a{
+	text-decoration: none;
+}
+a:hover, .dropdown:hover .dropbtn {
+    background-color:#82a4f2;
+}
+li.dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index:auto;
+}
+.dropdown-content a {
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+.dropdown-content a:hover {background-color:#82a4f2}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+#font{
+	font-size:25px;
+}
+.color{
+	color:black;
+}
+.a{
+	color:white;
+}
+#top{
+
+	margin-top:-10px;
+}
+ul.topnav li a.a {
+
+	display: inline-block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul.topnav li a.dropbtn {
+
+	display: inline-block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+	</style>
+</head>
+<body>
+			
+		</div>
+		<div class="header" align="left" id="top">
+			<ul class="topnav">
+				
+				<li><a href="#" class="a" id="font">Home</a></li>
+				
+				<li class="dropdown">
+					<a href="#" class="dropbtn" id="font">Search</a>
+				<div class="dropdown-content">
+					<a href="#">Grandslams</a>
+      				<a href="#">Atp tournaments</a>
+     				</div>
+				</li>
+				
+				<li><a href="#" class="a" id="font">About You</a></li>
+				</ul>
+				
+</body>
+
+    </head>   
+            <body>  
+                <header>                     
+                       <h1>ROGER FEDERER:<a href="http://www.rogerfedererfoundation.org/en/home"</a href>   <img src ="Images/FEDROT71943.jpg"/> </h1> 
+                </header>    
+     
+<h1>Introduction:</h1>
+ 
+<article>
+        <p>Roger Federer is a Swiss professional tennis player who is currently ranked world No. 1 in men's singles
+        tennis by the Association of Tennis Professionals (ATP).[2] Federer has won 20 Grand Slam singles 
+        titles—the most in history for a male player—and has held the world No. 1 spot in the ATP rankings for a 
+        record total of 310 weeks, including a record 237 consecutive weeks. After turning professional in 1998, 
+        he was continuously ranked in the top ten from October 2002 to November 2016. He re-entered the top ten 
+        following his victory at the 2017 Australian Open.</p>
+
+   
+
+        <p>Federer has won a record eight Wimbledon titles, a joint-record six Australian Open titles, a record five
+        consecutive US Open titles, and one French Open title. He is one of eight men to have captured a career 
+        Grand Slam. Federer has reached a record 30 men's singles Grand Slam finals, including 10 in a row from 
+        the 2005 Wimbledon Championships to the 2007 US Open. Federer has also won a record six ATP Finals, 
+        27 ATP World Tour Masters 1000 titles, and a record 20 ATP World Tour 500 titles. Given these achievements, 
+        many players and analysts consider Federer the greatest tennis player of all time.[a]</p>
+
+  
+
+        <p>Federer's all-court game and versatile style of play involve exceptional footwork and shot-making.[17] 
+        Effective both as a base-liner and a volleyer, his apparent effortlessness and efficient movement on the 
+        court have made Federer highly popular among his fans.[18][19][20] He has been voted by his peers to 
+        receive the tour Sportsmanship Award a record thirteen times and voted by tennis fans to receive the ATP 
+        Fans' Favorite award for fifteen consecutive years.[21] Federer has been named the Swiss Sports Personality 
+        of the Year a record seven times. He has been named the ATP Player of the Year and ITF World Champion five
+        times, and he has won the Laureus World Sportsman of the Year award a record five times, including four 
+        consecutive awards from 2005 to 2008. He is also the only individual to have won the BBC Overseas Sports 
+        Personality of the Year award four times.</p>
+    </article>
+
+       <hr>
+
+
+        <h1>Personal Life :</h1>
+        <article>
+        <p>Federer was born in Basel, Switzerland.[22] His father, Robert Federer, is a Swiss-German from Berneck in
+        the Canton of St. Gallen, and his mother, Lynette Federer (née Durand), is an Afrikaner from Kempton Park,
+        Gauteng, in South Africa. Federer has one sibling, his older sister, Diana,[23] who is the mother of a set
+        of twins.[24] Since his mother is South African, he holds both Swiss and South African citizenship.[25]
+        He grew up in nearby Birsfelden, Riehen, and then Münchenstein, close to the French and German borders, 
+        and he speaks Swiss German, Standard German, English and French fluently, as well as functional Italian 
+        and Swedish; Swiss German is his native language.[22][26][27][28] Federer served as a ball boy at his 
+        hometown Basel tournament, the Swiss Indoors, in 1992 and 1993.[26][29]</p>
+    </article>
+
+        <hr>
+
+        <ul>
+        <li><h2>Australian Open: 2004,2006,2010,2017,2018</h2></li>
+        <a href="https://ausopen.com/"</a href><img src="Images/Au.jpg"/>
+        <li><h2>French Open:2009</h2></li>
+        <img src="Images/Fr.jpg"/>
+        <li><h2>Wimbledon Open:2003,2004,2005,2006,2007,2009,2012,2017</h2></li>
+        <img src="Images/wim.jpg"/>
+        <li><h2>US Open:2004,2005,2006,2007,2008</h2></li>
+        <img src="Images/US.jpg"/>
+        </ul>
+        </body>  
+</html>
